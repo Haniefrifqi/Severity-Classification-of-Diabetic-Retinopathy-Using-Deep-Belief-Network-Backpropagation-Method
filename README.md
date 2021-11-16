@@ -23,5 +23,9 @@ system and the complexity of the detection of DR disease object objects in the
 dataset images used.
 
 The result when using IDRiD dataset:
+
 ![image](https://user-images.githubusercontent.com/92786679/141990887-4cf5bf09-73dd-4081-b9e8-4e328d822b18.png)
 
+The result when using MESSIDOR dataset:
+
+![image](https://user-images.githubusercontent.com/92786679/141991344-5f9a4224-d582-4b70-af18-63a5abca27e1.png)
